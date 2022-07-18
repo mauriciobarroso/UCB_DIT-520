@@ -1,4 +1,4 @@
-# Proyecto final para el módulo de Sistemas Embebidos
+# UCB_DIT-520
 Proyecto final para la materia Sistemas Embebidos
 
 ## Diagrama en bloques
