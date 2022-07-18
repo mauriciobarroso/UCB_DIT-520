@@ -1,5 +1,4 @@
-# es-final
-
+# Proyecto final para el módulo de Sistemas Embebidos
 Proyecto final para la materia Sistemas Embebidos
 
 ## Diagrama en bloques
